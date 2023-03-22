@@ -1,5 +1,5 @@
 #this file consists of code for instances and sg
-provider "aws" {
+provider "terraform" {
 region = "ap-south-1"
 access_key = "AKIA3OWTCUQACKQBTXYZ"
 secret_key = "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"
